@@ -1,0 +1,2 @@
+go mod init booking-app   --> Creates our project/module with the given name
+go run nameOfFile  --> Run app
